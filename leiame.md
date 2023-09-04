@@ -24,6 +24,9 @@ mas não conseguimos adicionar manipulação de erros(para o usúario não adici
 REFERÊNCIAS:
 
 *https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex
+
 *https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+
 *https://www.freecodecamp.org/portuguese/news/foreach-em-javascript-como-percorrer-um-array-em-js/
+
 * https://youtu.be/_OawuPYWfs0?feature=shared
