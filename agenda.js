@@ -23,15 +23,10 @@ class Agenda{
         let telefone = parseInt(prompt("Digite o número de telefone do contato: "));
         let email = prompt("Digite o e-mail do contato: ");
         
-        // Verifica se o número de telefone tem no máximo 10 dígitos
-        if(telefone.length <= 10){
         let novoContato = new Contato(nome, telefone, email);
         this.contatos.push(novoContato);
         
         console.log("Contato salvo com sucesso.");
-        } else {
-            console.log("O número de telefone deve ter no máximo 10 dígitos. Contato não salvo.");
-        }
         console.log("");
 
     }
